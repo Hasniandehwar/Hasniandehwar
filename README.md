@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Hasnain Dehwar 👋
 I'm a Python developer passionate about building efficient, scalable, and user-friendly applications. My current focus is on mastering Python and using it to develop real-world solutions.
 
 🌱 Learning Journey: Continuously improving my Python skills, with a focus on logic building, Object-Oriented Programming (OOP), and Django development.
